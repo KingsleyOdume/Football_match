@@ -34,3 +34,6 @@ predictive-analytics-platform/
 │── models/             # Saved ML models
 │── requirements.txt    # Python dependencies
 │── README.md           # Project documentation
+
+
+Details Here: [Click](https://kingsleyodume.online/projects/football-match-prediction)
